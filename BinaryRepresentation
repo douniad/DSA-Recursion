@@ -1,0 +1,9 @@
+- what is the input to the program?
+- what is the output of the program?
+- what is the input to each recursive call?
+- what is the output of each recursive call?
+
+1. number
+2. binary representation
+3. func(number)
+4. idk?????

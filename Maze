@@ -1,0 +1,9 @@
+- what is the input to the program?
+- what is the output of the program?
+- what is the input to each recursive call?
+- what is the output of each recursive call?
+
+1. input: maze
+2. output: path to exit
+3. func()??????
+4. directions

@@ -1,0 +1,15 @@
+- what is the input to the program?
+- what is the output of the program?
+- what is the input to each recursive call?
+- what is the output of each recursive call?
+
+1. input: 3
+2. output: 
+- 3: another sheep jumps over the fence
+- 2: another sheep jumps over the fence
+- 1: another sheep jumps over the fence
+- all sheep jumped over the fence
+3. func(let -1)
+4. - console.log(let -1 + another sheep jumps over the fence )
+   - console.log(if let === 0 => all sheep jumped over the fence)
+
